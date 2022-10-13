@@ -1,2 +1,1 @@
-# workshop-myteacher-frontend
- Frontend do projeto usando React e Next.js
+<h1>MyTeacher Project Frontend</h1>
